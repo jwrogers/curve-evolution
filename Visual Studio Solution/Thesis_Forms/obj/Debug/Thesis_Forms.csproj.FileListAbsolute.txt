@@ -1,0 +1,39 @@
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.exe.config
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.exe
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.pdb
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.csprojResolveAssemblyReference.cache
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.dlgFnInput.resources
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.Form1.resources
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.Properties.Resources.resources
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.csproj.GenerateResource.Cache
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.exe
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.pdb
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.dll
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.pdb
+Z:\C# Working Folder\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.xml
+F:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.exe.config
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.exe
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.pdb
+F:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.exe
+F:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.pdb
+F:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.pdb
+F:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.xml
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.csprojResolveAssemblyReference.cache
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.dlgFnInput.resources
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.Form1.resources
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.Properties.Resources.resources
+F:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.csproj.GenerateResource.Cache
+F:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Wolfram.NETLink.dll
+E:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.exe.config
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.exe
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.pdb
+E:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.exe
+E:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Thesis_Forms.pdb
+E:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\Wolfram.NETLink.dll
+E:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.pdb
+E:\1Thesis\Thesis_Forms\Thesis_Forms\bin\Debug\AutoDiff.xml
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.csprojResolveAssemblyReference.cache
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.dlgFnInput.resources
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.Form1.resources
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.Properties.Resources.resources
+E:\1Thesis\Thesis_Forms\Thesis_Forms\obj\Debug\Thesis_Forms.csproj.GenerateResource.Cache
