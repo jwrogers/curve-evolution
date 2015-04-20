@@ -1,5 +1,4 @@
 # **Smoke Rings**
-==================
 ##A program to draw Smoke Rings in C# and evolve them over time.
 
 This program was developed as part of my Msc thesis. The goal of the program was to do exactly what it says on the tin, draw and evolve smoke rings.
